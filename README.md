@@ -1,1 +1,1 @@
-# werewolves_online_client
+# werewolf_client_heroku
